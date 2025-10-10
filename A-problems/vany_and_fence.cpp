@@ -18,8 +18,6 @@ int min_width(int n, int h, vector<int> &friends)
 
 int main()
 {
-    cout << "Inside the main function" << endl;
-
     int nth, height;
     cin >> nth >> height;
 
