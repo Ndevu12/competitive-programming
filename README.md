@@ -12,4 +12,7 @@ I update this repository regularly with new content as I continue to grow my pro
 
 ---
 
+Coeing is the way to ...
+
+
 Happy coding! 💻
